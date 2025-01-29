@@ -1,10 +1,7 @@
 # Programming-Principles-and-Practice-Using-CPP_3rd-Edition
 This is just my testing part from the book
-Since the **correct book** has **656 pages**, I’ll **adjust** the plan to **fit the real page count** while maintaining deep learning, coding practice, and retention.  
 
----
-  
-### 🚀 **Updated Advanced Study Plan (Based on 656 Pages)**  
+### 🚀 **Advanced Study Plan (Based on 656 Pages)**  
 - **📆 Duration:**  **3-4 weeks (~25 days)**
 - **⏳ Daily Study:** **6-8 hours**  
 - **📖 Pages per day:** **25-40 pages**  
