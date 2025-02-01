@@ -2,9 +2,9 @@
 This is just my testing part from the book
 
 ## **Notation**
-- <span style="color: blue;">CC</span>: Concepts and Techniques 
-- <span style="color: green;">AA</span>: Advice 
-- <span style="color: red;">XX</span>: Warning
+- <span style="color: blue;">CC</span>: Concepts and Techniques(blue)
+- <span style="color: green;">AA</span>: Advice(green)
+- <span style="color: red;">XX</span>: Warning(red)
 
 ### 🚀 **Advanced Study Plan (Based on 656 Pages)**  
 - **📆 Duration:**  **3-4 weeks (~25 days)**
