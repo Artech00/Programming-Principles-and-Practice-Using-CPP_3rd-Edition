@@ -1,6 +1,11 @@
 # Programming-Principles-and-Practice-Using-CPP_3rd-Edition
 This is just my testing part from the book
 
+## **Notation**
+- <span style="color: blue;">CC</span>: Concepts and Techniques 
+- <span style="color: green;">AA</span>: Advice 
+- <span style="color: red;">XX</span>: Warning
+- 
 ### 🚀 **Advanced Study Plan (Based on 656 Pages)**  
 - **📆 Duration:**  **3-4 weeks (~25 days)**
 - **⏳ Daily Study:** **6-8 hours**  
