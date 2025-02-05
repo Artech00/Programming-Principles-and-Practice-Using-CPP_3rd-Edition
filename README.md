@@ -20,8 +20,8 @@ This is just my testing part from the book
 
 | **Day** | **Pages** | **Topics** | **Coding Task** |
 |---------|----------|------------|-----------------|
-| **Day 1** | **1-35** | Introduction, Basic I/O | Print "Hello, World!" with input/output formatting. |
-| **Day 2** | **36-70** | Variables, Data Types, Operators | Build a basic calculator. |
+| **Day 1** | **1-28** | Introduction, Basic I/O | Write a program that lists the instructions a computer would follow to find the upstairs bathroom. |
+| **Day 2** | **29-70** | Variables, Data Types, Operators | Build a basic calculator. |
 | **Day 3** | **71-110** | Conditionals, Loops | Implement a number-guessing game. |
 | **Day 4** | **111-150** | Functions, Scope | Write a simple math library. |
 | **Day 5** | **151-186** | Arrays, Vectors, Strings | Create a program that sorts a list of names. |
