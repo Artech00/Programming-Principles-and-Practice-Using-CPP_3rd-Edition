@@ -20,7 +20,7 @@ This is just my testing part from the book
 
 | **Day** | **Pages** | **Topics** | **Coding Task** |
 |---------|----------|------------|-----------------|
-| **Day 1** | **1-28** | Introduction, Basic I/O | Write a program that lists the instructions a computer would follow to find the upstairs bathroom. |
+| **Day 1** | **1-28** | Introduction, Basic I/O | Write a program that lists the instructions a computer would follow to find the upstairs bathroom(book exercise). |
 | **Day 2** | **29-70** | Variables, Data Types, Operators | Build a basic calculator. |
 | **Day 3** | **71-110** | Conditionals, Loops | Implement a number-guessing game. |
 | **Day 4** | **111-150** | Functions, Scope | Write a simple math library. |
