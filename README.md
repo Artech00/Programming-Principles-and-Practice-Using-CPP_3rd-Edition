@@ -8,7 +8,6 @@ This is just my testing part from the book
 
 ### 🚀 **Advanced Study Plan (Based on 656 Pages)**  
 - **📆 Duration:**  **3-4 weeks (~25 days)**
-- **⏳ Daily Study:** **6-8 hours**  
 - **📖 Pages per day:** **25-40 pages**  
 - **💻 Coding:** **50% of study time should be hands-on coding.**  
 - **🔁 Review System:** **Daily recaps + weekly mini-projects.**  
