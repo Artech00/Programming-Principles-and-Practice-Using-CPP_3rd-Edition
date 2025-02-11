@@ -13,7 +13,25 @@ This is just my testing part from the book
 - **🔁 Review System:** **Daily recaps + weekly mini-projects.**  
 
 ---
+## Opening Project Markdown Files(`.md files`) in Obsidian(note-taking app)
 
+For the best experience when viewing and editing current project's Markdown files (organized in directories like `week1/day1/filename.md`), I recommend using the [Obsidian](https://obsidian.md/) note-taking app.
+
+### Steps to Open a .md File in Obsidian
+
+1. **Download Obsidian:**  
+   - Visit the [Obsidian Download Page](https://obsidian.md/) and download the installer for your operating system.
+
+2. **Install Obsidian:**  
+   - Run the installer and follow the on-screen instructions.
+
+3. **Create or Open a Vault:**  
+   - Launch Obsidian.
+   - Choose to create a new vault or open an existing one.
+   - In our case to work with your project files, select **"Open folder as vault"**.
+   - Navigate to the folder containing your files (e.g., the directory `week1/day1/`).
+   - Click **"Select Folder"** to open the vault, that's it!
+   
 ## **📆 Week 1 – Fundamentals (Chapters 1-7, Pages 1-216)**
 💡 **Focus:** C++ syntax, variables, loops, functions, error handling.  
 
