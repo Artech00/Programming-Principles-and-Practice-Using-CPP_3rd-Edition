@@ -12,6 +12,10 @@ This is just my testing part from the book
 - **💻 Coding:** **50% of study time should be hands-on coding.**  
 - **🔁 Review System:** **Daily recaps + weekly mini-projects.**  
 
+## **🪧Key Information**  
+- Each project directory (e.g., `week1/day1/`) includes a file named **`words_notes.md`**, which contains the main notes written for the current day.  
+- Within the same directory, there is a **`codes`** folder (e.g., `week1/day1/codes`) that holds code examples written for that day.
+
 ---
 ## Opening Project Markdown Files(`.md files`) in Obsidian(note-taking app)
 
