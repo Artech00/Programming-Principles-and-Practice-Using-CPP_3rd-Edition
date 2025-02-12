@@ -13,6 +13,7 @@ This is just my testing part from the book
 - **🔁 Review System:** **Daily recaps + weekly mini-projects.**  
 
 ## **🪧Key Information**  
+- There is a folder called `book` where the PDF version of the book is located
 - Each project directory (e.g., `week1/day1/`) includes a file named **`words_notes.md`**, which contains the main notes written for the current day.  
 - Within the same directory, there is a **`codes`** folder (e.g., `week1/day1/codes`) that holds code examples written for that day.
 
