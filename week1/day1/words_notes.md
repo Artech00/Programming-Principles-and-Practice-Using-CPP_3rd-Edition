@@ -176,9 +176,10 @@ Modules are collections of code files, similar to header files, that encapsulate
 | **Visual Studio 2022** | **MSVC (by default)**                                                                                           | **`.cppm`**                                                                  |
 | **Linux**              | **GCC (commonly)**, Clang                                                                                       | **`.ixx`** (by convention)                                                   |
 | **macOS**              | **Clang (default via Xcode)**                                                                                   | **`.ixx`** (by convention)                                                   |
+
 Additional content to watch:
-4. https://www.youtube.com/watch?v=ZwaE-JM7smI&t=758s
-5. https://www.youtube.com/watch?v=pAxEfF2yVlM&t=905s
+1. https://www.youtube.com/watch?v=ZwaE-JM7smI&t=758s
+2. https://www.youtube.com/watch?v=pAxEfF2yVlM&t=905s
 
 ---
 13.`bug`
@@ -192,8 +193,8 @@ The reason for calling an error ‘‘a bug’’ is that in a very early system
 Every C++ program must have main function, which servers as an entry point and typically returns an success or failure exit code status
 
 Additional content to watch:
-6. look at [[argc_argv]]
-7. watch https://www.youtube.com/watch?v=SEJjSo4qkl8&t=144s
+1. look at [[argc_argv]]
+2. watch https://www.youtube.com/watch?v=SEJjSo4qkl8&t=144s
 
 15.`C++` 
 C++ is a high-level, `compiled programming language`. That means that to get a program to run, you must first translate it from the human-readable form to something a machine can ‘‘understand.’’ That translation is done by a program called a `compiler
@@ -245,8 +246,11 @@ A program is a set of clear instructions that tells a computer exactly what to d
 ### Exercises
 /*Task1
 Change the program to output the two lines
+
 Hello, programming!
+
 Here we go!
+
 (book exercise).
 */
 
@@ -280,30 +284,37 @@ a computer would follow to find the upstairs bathroom(book exercise).
     - Verify if the bathroom is found, and enter it.
 
 
-/*Task3(Implement later with key value algorithm, add some info about kitchen utensils, and so on..)
-*/
-Find a good cookbook. Read the instructions
-Rewrite those instructions so that each individual action is in its own numbered paragraph.
+/*Task3 (Implement later with key value algorithm, add some info about kitchen utensils, and so on..) */
+
+Find a good cookbook
+
+• Read the instructions
+
 • Rewrite those instructions so that each individual action is in its own numbered paragraph.
-• Be careful to list all ingredients and all kitchen utensils used at each step. Be
-careful about crucial details, such as the desired oven temperature, preheating the oven, the preparation of the muffin pan, the way to time the cooking, and the need to protect your hands when removing the muffins from the oven
+
+• Be careful to list all ingredients and all kitchen utensils used at each step. Be careful about crucial details, 
+such as the desired oven temperature, preheating the oven, the preparation of the muffin pan, the way to time the cooking,
+and the need to protect your hands when removing the muffins from the oven
+
 • Consider those instructions from the point of view of a cooking novice (if you are not one, get help from a friend who does not know how to cook).
+
 • Build a glossary of terms used. (What’s a muffin pan? What does preheating do? What do you mean by ‘‘oven’’?)
+
 • Now bake some muffins and enjoy your results.
 
 Ingredients
-12. 1 tablespoon olive oil
-13. 1 tsp no salt Cajun seasoning
-14. 1 shallot diced(separated group of onion)
-15. 1 clove garlic grated(1 зубчик чеснока, натертый на терке)
-16. 1 bell pepper seasoning(Բուլղարական Պղպեղի համեմունք)
-17. 1/3 cup low sodium diced tomato
-18. 1 avocado diced
-19. 1/2 cup andouille sausage
-20. 1 can low sodium black beans washed and drained
-21. 1 cup shredded Monterey jack cheese
-22. 1 package ramen noodles
-23. 2 cups beef broth(2 стакана говяжьего бульона)
+- 1 tablespoon olive oil
+- 1 tsp no salt Cajun seasoning
+- 1 shallot diced(separated group of onion)
+- 1 clove garlic grated(1 зубчик чеснока, натертый на терке)
+- 1 bell pepper seasoning(Բուլղարական Պղպեղի համեմունք)
+- 1/3 cup low sodium diced tomato
+- 1 avocado diced
+- 1/2 cup andouille sausage
+- 1 can low sodium black beans washed and drained
+- 1 cup shredded Monterey jack cheese
+- 1 package ramen noodles
+- 2 cups beef broth(2 стакана говяжьего бульона)
 
 Instructions:
 In a pot or skillet with high sides bring to heat over a burner set for med-high heat 1 minute
